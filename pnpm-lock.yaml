@@ -23,10 +23,10 @@ importers:
 
   apps/docs:
     dependencies:
-      '@acme/core':
+      '@ruiaraujo012/core':
         specifier: workspace:*
         version: link:../../packages/acme-core
-      '@acme/utils':
+      '@ruiaraujo012/utils':
         specifier: workspace:*
         version: link:../../packages/acme-utils
       next:
@@ -39,15 +39,15 @@ importers:
         specifier: ^18.2.0
         version: 18.3.1(react@18.3.1)
     devDependencies:
-      '@acme/eslint-config':
-        specifier: workspace:*
-        version: link:../../packages/eslint-config
-      '@acme/tsconfig':
-        specifier: workspace:*
-        version: link:../../packages/acme-tsconfig
       '@next/eslint-plugin-next':
         specifier: ^14.1.1
         version: 14.2.20
+      '@ruiaraujo012/eslint-config':
+        specifier: workspace:*
+        version: link:../../packages/eslint-config
+      '@ruiaraujo012/tsconfig':
+        specifier: workspace:*
+        version: link:../../packages/acme-tsconfig
       '@types/node':
         specifier: ^20.11.24
         version: 20.17.10
@@ -67,10 +67,10 @@ importers:
         specifier: ^18.2.0
         version: 18.3.1
     devDependencies:
-      '@acme/eslint-config':
+      '@ruiaraujo012/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
-      '@acme/tsconfig':
+      '@ruiaraujo012/tsconfig':
         specifier: workspace:*
         version: link:../acme-tsconfig
       '@types/react':
@@ -97,10 +97,10 @@ importers:
         specifier: ^18.2.0
         version: 18.3.1
     devDependencies:
-      '@acme/eslint-config':
+      '@ruiaraujo012/eslint-config':
         specifier: workspace:*
         version: link:../eslint-config
-      '@acme/tsconfig':
+      '@ruiaraujo012/tsconfig':
         specifier: workspace:*
         version: link:../acme-tsconfig
       '@types/react':

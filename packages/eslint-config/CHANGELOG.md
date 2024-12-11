@@ -1,4 +1,4 @@
-# @acme/eslint-config
+# @ruiaraujo012/eslint-config
 
 ## 1.0.0
 

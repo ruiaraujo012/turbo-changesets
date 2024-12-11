@@ -1,4 +1,4 @@
-# @acme/tsconfig
+# @ruiaraujo012/tsconfig
 
 ## 1.0.0
 

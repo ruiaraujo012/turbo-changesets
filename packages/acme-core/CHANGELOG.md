@@ -1,4 +1,4 @@
-# @acme/core
+# @ruiaraujo012/core
 
 ## 1.1.0
 

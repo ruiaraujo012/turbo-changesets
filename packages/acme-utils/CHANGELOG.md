@@ -1,4 +1,4 @@
-# @acme/utils
+# @ruiaraujo012/utils
 
 ## 1.0.1
 
