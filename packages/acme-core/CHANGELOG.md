@@ -1,5 +1,11 @@
 # @ruiaraujo012/core
 
+## 1.1.3
+
+### Patch Changes
+
+- 109f66f: release
+
 ## 1.1.2
 
 ### Patch Changes
