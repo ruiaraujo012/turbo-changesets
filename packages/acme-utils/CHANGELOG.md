@@ -1,5 +1,11 @@
 # @ruiaraujo012/utils
 
+## 1.0.2
+
+### Patch Changes
+
+- 5ff5242: change package scope name
+
 ## 1.0.1
 
 ### Patch Changes
