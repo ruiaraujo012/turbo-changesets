@@ -1,5 +1,11 @@
 # @ruiaraujo012/core
 
+## 1.1.1
+
+### Patch Changes
+
+- 749989e: test
+
 ## 1.1.0
 
 ### Minor Changes
