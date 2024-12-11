@@ -5,6 +5,8 @@ function usePrevious<T>(value: T) {
   // ... and can hold any value, similar to an instance property on a class
   const ref = React.useRef<T>(value);
 
+  console.log('ref >> ', ref);
+
   // Store current value in ref
   React.useEffect(() => {
     ref.current = value;
