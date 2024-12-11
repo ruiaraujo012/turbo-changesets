@@ -1,5 +1,11 @@
 # @ruiaraujo012/eslint-config
 
+## 1.0.2
+
+### Patch Changes
+
+- 109f66f: release
+
 ## 1.0.1
 
 ### Patch Changes
