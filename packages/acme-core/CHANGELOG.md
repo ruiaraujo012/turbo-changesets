@@ -1,5 +1,12 @@
 # @ruiaraujo012/core
 
+## 1.1.2
+
+### Patch Changes
+
+- 5ff5242: change package scope name
+- 6b84baa: scope name
+
 ## 1.1.1
 
 ### Patch Changes

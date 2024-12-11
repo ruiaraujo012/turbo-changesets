@@ -1,5 +1,11 @@
 # @ruiaraujo012/eslint-config
 
+## 1.0.1
+
+### Patch Changes
+
+- 5ff5242: change package scope name
+
 ## 1.0.0
 
 ### Major Changes
